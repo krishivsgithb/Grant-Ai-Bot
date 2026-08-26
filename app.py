@@ -39,6 +39,7 @@ if st.button("Find Eligible Grants"):
                    - **Key Eligibility Requirements**
                    - **Why it fits this startup**
                 3. Write in bullet points strictly
+                If in the idea section there is some rubbish thing which is not related to any idea,just return "Please give a valid Idea"
                 
                 Try to go more state specific that saying general grants like MeitY,Birac,Nidhi Prayaas or Bionest.Also don't completely avoid them.
                 """
